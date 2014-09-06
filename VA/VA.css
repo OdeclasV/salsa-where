@@ -1,0 +1,126 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 19px;
+	line-height: 1.4;
+}
+
+body {
+	margin: 0;
+}
+
+.VA_container {
+	width: 100%;
+	margin: 0 auto;
+}
+.VA_title {
+	color: white;
+	background-image: url('http://cdnfiles.hdrcreme.com/47836/medium/rosslyn-va.jpg?1357051995');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-size: 3em;
+	text-align: center;
+	padding-top: 140px;
+	margin: 0 auto;
+	width: 100%;
+	height: 615px;
+	display: inline-block;
+}
+
+.VA_wrapper {
+	width: 100%; 
+}
+
+.VA_sites {
+	height: 600px;
+ 	background-attachment: fixed;
+ 	color: white;
+}	
+
+.VA_sites h3 {
+	margin: 0 auto;
+	float: left;
+	font-size: 1.5em;
+	font-family: helvetica, sans-serif;
+	padding-left: 50px;
+}
+
+.VA_lists {
+	width: 80%;
+	position: center;
+	font-family: 'Dosis', sans-serif;
+	float: left;
+}
+
+.VA_lists li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 20px;
+	padding: 0 30px 0 10px;
+	text-align: center;
+	font-size: 1.25em;
+	padding: 40px;
+	color: white;
+	
+}
+
+.site_one {
+	background-image: url('http://dmv4dummies.files.wordpress.com/2011/10/salsa-room-dance-floor-2.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+
+}
+
+.site_two {
+	background-image: url('http://www.arlnow.com/wp-content/uploads/2010/08/clarendon-grill.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.site_three {
+	background-image: url('http://ndiadhiou.files.wordpress.com/2012/08/dsc_0119.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.site_three {
+	background-image: url('http://ndiadhiou.files.wordpress.com/2012/08/dsc_0119.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.site_four {
+	background-image: url('http://4.bp.blogspot.com/-yxWshVpO2F4/TwYUSsY0TCI/AAAAAAAABo4/NAHJvj7pGlQ/s1600/IMG_7292.JPG');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.site_five {
+	background-image: url('http://www.bowlluckystrike.com/wp-content/uploads/feat_washVA.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.site_six {
+	background-image: url('http://1.bp.blogspot.com/_tqme2mpg45w/TKkx0VUs0DI/AAAAAAAAI5M/kdRpYBW88NM/s1600/IMG_1519.JPG');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+

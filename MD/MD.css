@@ -1,0 +1,118 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 19px;
+	line-height: 1.4;
+}
+
+body {
+	margin: 0;
+}
+
+.MD_container {
+	width: 100%;
+	margin: 0 auto;
+}
+.MD_title {
+	color: white;
+	background-image: url('http://static.panoramio.com/photos/large/50778070.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-size: 3em;
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+	height: 615px;
+	display: inline-block;
+}
+
+.MD_wrapper {
+	width: 100%; 
+}
+
+.MD_sites {
+	height: 600px;
+ 	background-attachment: fixed;
+ 	color: white;
+}	
+
+.MD_sites h3 {
+	margin: 0 auto;
+	float: left;
+	font-size: 1.5em;
+	font-family: helvetica, sans-serif;
+	padding-left: 50px;
+}
+
+.MD_lists {
+	width: 80%;
+	position: center;
+	font-family: 'Dosis', sans-serif;
+	float: left;
+}
+
+.MD_lists li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 20px;
+	padding: 0 30px 0 10px;
+	text-align: center;
+	font-size: 1.25em;
+	padding: 40px;
+	color: white;
+	
+}
+
+.site_one {
+	background-image: url('https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.paintedscreens.synthasite.com%2Fresources%2FTalara.jpg&f=1');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+
+}
+
+.site_two {
+	background-image: url('http://s3-media4.fl.yelpcdn.com/bphoto/VzaIh76VAVQuJx-FSriyrg/l.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.site_three {
+	background-image: url('http://www.trbimg.com/img-52f25c1c/turbine/bal-anastasia-bar-review-20140205/2048/2048x1364');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.site_four {
+	background-image: url('http://pics3.city-data.com/businesses/p/5/8/2/9/4915829.JPG');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.site_five {
+	background-image: url('http://www.hollywoodballroomdc.com/wp-content/uploads/2011/09/Ballroom-during-a-dance-lesson.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.site_six {
+	background-image: url('http://1.bp.blogspot.com/_tqme2mpg45w/TKkx0VUs0DI/AAAAAAAAI5M/kdRpYBW88NM/s1600/IMG_1519.JPG');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
